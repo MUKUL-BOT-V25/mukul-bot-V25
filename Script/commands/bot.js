@@ -129,12 +129,12 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️কি গো কলিজা তোমার কি মন খারাপ🥺", threadID);
    };
 
-   if ((event.body.toLowerCase() == "gf") || (event.body.toLowerCase() == "bf")) {
-     return api.sendMessage("খালি কি তোরাই পেম করবি আমাকেও একটা গার্লফ্রেন্ড দে<🥺", threadID);
+   if ((event.body.toLowerCase() == "gf") || (event.body.toLowerCase() == "🙂")) {
+     return api.sendMessage("মদে আর কতটুকু নেশা গালিব, সর্বনাশ তো করেছে প্রেমিকার চোখ", threadID);
    };
 
-   if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "🤣") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
-     return api.sendMessage("ভাই তুই এত হাসিস না হাসলে তোরে কীসের মতো যেন লাগে🌚🤣", threadID);
+   if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "👀") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
+     return api.sendMessage("আমি উন্মাদ হয়ে যাই তাকে দেখার জন্য একবার,ভাবো জিহাদ যে তাকে রোজ দেখছে তাঁর ভাগ্যে কত চমৎকার", threadID);
    };
 
    if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "😁") || (event.body.toLowerCase() == "Kmon acho") || (event.body.toLowerCase() == "how are you") || (event.body.toLowerCase() == "how are you?")) {
