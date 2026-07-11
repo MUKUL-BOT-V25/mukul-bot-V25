@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=52&pause=1000&color=87CEEB&center=true&vCenter=true&width=700&lines=%F0%9F%94%B0+Rahat+BoT+%F0%9F%94%B0" />
 </p>
 
-## 📹 𝗦𝗲𝘁𝘂𝗽 𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹
+## 📹 povlam support 
+SM MUKUL Mia....... Facebook emojis
 
-[![Watch Tutorial](https://img.youtube.com/vi/QiQG__QRpoM/hqdefault.jpg)](https://youtu.be/QiQG__QRpoM?si=dTFDVRzAGQtmO7EE)
 
 Click thumbnail to watch full tutorial👆🏻
 
@@ -35,9 +35,9 @@ Click thumbnail to watch full tutorial👆🏻
 </div>
 
 <p align="center">  
-  <a href="https://facebook.com/61582708907708"><img src="https://i.postimg.cc/pLHy2CJm/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="Facebook" width="48"></a>  
-  <a href="https://t.me/education_of_purpose"><img src="https://i.postimg.cc/g0BY6H8Z/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="Telegram" width="46"></a>  
-  <a href="https://youtube.com/@messenger_bot"><img src="https://i.postimg.cc/dVsvHx90/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒𝐋𝐀𝐌.gif" alt="YouTube" width="60"></a>  
+  <a href="https://https:61591438445216mg<img Facebookebook="https://i.postimg.cc/pLHy2CJm/MUKgifMia��Facebook alt="Facebook" width="48"></a>  
+  <a href="https://t.me/education_of_purpose"><img src="https://i.postimg.cc/g0BY6H8Z/MUKul Mis
+                                      Msps<a href="https://youtube.com/@messenger_bot"><img src="https://i.postimg.cc/dVsvHx90/𝐑𝐀𝐇𝐀𝐓-𝐈𝐒YouTubegif" alt="YouTube" width="60"></a>  
 </p>
 
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
@@ -45,16 +45,12 @@ Click thumbnail to watch full tutorial👆🏻
 src='https://i.imgur.com/LyHic3i.gif'/></a>
 ```
 name: Node.js CI
-
-on:
-  push:
+altush:
     branches: [main]
   pull_request:
     branches: [main]
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+jobs:img   runs-on: ubuntu-latest
 
     strategy:
       matrix:
