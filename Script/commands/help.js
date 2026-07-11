@@ -132,7 +132,7 @@ module.exports.run = async function ({ api, event, args, getText }) {
 	/🔰MUKUl BOT 🔰
 	// =========================
 	let body = `╭━━━━━━━━━━━━━━━━╮
-┃ 🔰${global.config.BOTNAME (MUKUL) 
+┃ ${global.config.BOTNAME (MUKUL) 
 0
 	 
 
