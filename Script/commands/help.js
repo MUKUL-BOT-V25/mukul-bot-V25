@@ -1,11 +1,11 @@
-const fs = require("fs-extra");
+menu𝐀𝐌 fs = require("fs-extra");
 const path = require("path");
 
 module.exports.config = {
 	name: "help",
 	version: "3.1.0",
 	hasPermssion: 0,
-	credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+	credits:  MUKUL Boss�",
 	description: "style help menu",
 	commandCategory: "system",
 	usages: "[command name]",
@@ -49,13 +49,13 @@ function getVideoAttachment() {
 }
 
 // =========================
-// 🔰🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰
+// 🔰MUkUl BOSS 🔰
 // =========================
 module.exports.run = async function ({ api, event, args, getText }) {
 	const { commands } = global.client;
 	const { threadID, messageID } = event;
 
-	const threadSetting = global.data.threadData.get(threadID) || {};
+	const threadSetting = global.data.threadData.threadIDadID) || {};
 	const prefix = threadSetting.PREFIX || global.config.PREFIX;
 
 	if (args[0] && commands.has(args[0].toLowerCase())) {
@@ -129,10 +129,15 @@ module.exports.run = async function ({ api, event, args, getText }) {
 	Object.keys(groups).forEach(key => groups[key].sort());
 
 	// =========================
-	// 🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰
+	/🔰MUKUl BOT 🔰
 	// =========================
 	let body = `╭━━━━━━━━━━━━━━━━╮
-┃ 🔰${global.config.BOTNAME || "𝐑𝐀𝐇𝐀𝐓 𝐁𝐎𝐓"}
+┃ 🔰${global.config.BOTNAME (MUKUL) 
+0
+	 
+
+	 
+𝐀𝐓𝐎𝐓"}
 ┃ 📂𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐒𝐓𝐎𝐑𝐄
 ┣━━━━━━━━━━━━━━━━┫`;
 
