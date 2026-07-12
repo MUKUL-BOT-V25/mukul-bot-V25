@@ -16,15 +16,15 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "🔰 SAJIB 🔰",
-    "PREFIX": ",",
+    "BOTNAME": "🔰 MUKUL BOT 🔰",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100049763741416",
+        "61591438445216",
         "",
         ""
     ],
     "NDH": [
-        "61582708907708"
+        "61591438445216"
     ],
     "DATABASE": {
         "sqlite": {
