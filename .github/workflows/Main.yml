@@ -15,7 +15,7 @@ jobs:img   runs-on: ubuntu-latest
     # Step to check out the repository code
     - uses: actions/checkout@v2
 
-    # Step to set up the specified Node.js version
+    # Step to set up the dependencies Node.js version
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
